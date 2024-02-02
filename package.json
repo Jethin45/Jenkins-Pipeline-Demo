@@ -1,0 +1,19 @@
+{
+  "name": "jenkinspipeline",
+  "version": "1.2.0",
+  "description": "A Jenkins Pipeline Demo showcasing CI/CD processes.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jethin45/Jenkins-Pipeline-Demo.git"
+  },
+  "author": "Jethin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jethin45/Jenkins-Pipeline-Demo/issues"
+  },
+  "homepage": "https://github.com/Jethin45/Jenkins-Pipeline-Demo#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
